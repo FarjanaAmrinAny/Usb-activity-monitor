@@ -1,0 +1,2 @@
+# One authorized USB serial number per line
+# Add a serial number only after verifying the device is trusted.

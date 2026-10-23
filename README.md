@@ -30,6 +30,8 @@ numbers against a local authorization allowlist.
 - CSV
 - unittest
 
+<img width="1254" height="1254" alt="USB Activity Monitor Shield" src="https://github.com/user-attachments/assets/a98483a6-4807-4663-986f-0a00ef81bf5f" />  
+
 ## Project Structure
 
 ```text
@@ -41,7 +43,5 @@ usb-activity-monitor/
 ├── .gitignore
 └── tests/
     └── test_monitor.py
-
-<img width="1254" height="1254" alt="USB Activity Monitor Shield" src="https://github.com/user-attachments/assets/a98483a6-4807-4663-986f-0a00ef81bf5f" />
 
 
